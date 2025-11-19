@@ -1,0 +1,1 @@
+# Adobe-RoboHelp-No-Trial
